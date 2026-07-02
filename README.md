@@ -21,3 +21,7 @@ An interactive web application designed for e-commerce store managers and execut
 1. Clone the repository:
    ```bash
    git clone [https://github.com/your-username/ecommerce-dashboard.git](https://github.com/your-username/ecommerce-dashboard.git)
+
+
+<img width="1851" height="905" alt="image" src="https://github.com/user-attachments/assets/007de86b-cf71-4ba4-8f38-5af3ebe1383d" />
+<img width="1170" height="861" alt="image" src="https://github.com/user-attachments/assets/e9ab2bb2-683e-4090-bb2a-8cdec2cb720b" />
